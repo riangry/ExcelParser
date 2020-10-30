@@ -47,6 +47,3 @@ for item in data:
         material_ids.append(data[data.index(item)])
     if len(item) == 5 and 'Механизмы' in item:
         mechanic_ids.append(data[data.index(item)])
-n = 0
-for item in data:
-
